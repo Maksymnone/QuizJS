@@ -1,2 +1,2 @@
 # QuizJS
-### Hello, this just educational project do not judge strictly))
+### Hello, this is just educational project do not judge strictly))
